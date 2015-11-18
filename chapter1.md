@@ -12,7 +12,7 @@ A distribution typically includes the following components:
 * Third party [libraries](https://www.drupal.org/glossary#library)
 * Documentation
 
-For more information, see the references below.
+For more technical information, see the references below.
 
 ### Technical References
 * [Developing installation profiles and distributions](https://www.drupal.org/developing/distributions)
