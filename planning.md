@@ -1,2 +1,2 @@
-# Planning a distrubution
+# Planning
 
