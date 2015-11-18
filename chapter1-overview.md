@@ -23,8 +23,6 @@ For more technical information, see the references below.
 ## Planning and developing a distribution
 
 
-
-
 ## Mataining a distribution
 
 As the name implies, a distribution is intended to be distributed and implemented by many sites. It is a software product. Consequently, the maintainer of a distribution has the responsibilities of a product owner. 
