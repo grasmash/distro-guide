@@ -1,4 +1,4 @@
-__Intended Audience__: Project Managers and Techincal Architects intended to create, distribut, and maintain a Drupal distribution for customers.
+__Intended Audience__: Project Managers and Techincal Architects intended to create, distribute, and maintain a Drupal distribution for customers.
 
 # Distribution Guide
 
