@@ -20,7 +20,12 @@ For more technical information, see the references below.
 * [Distribution developers guide](https://www.drupal.org/node/1555384)
 * [How to Write a Drupal 7 Installation Profile](https://www.drupal.org/node/1022020)
 
-## Distribution ownership
+## Planning and developing a distribution
+
+
+
+
+## Mataining a distribution
 
 As the name implies, a distribution is intended to be distributed and implemented by many sites. It is a software product. Consequently, the maintainer of a distribution has the responsibilities of a product owner. 
 
