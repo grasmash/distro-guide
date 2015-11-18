@@ -5,7 +5,7 @@
 * Build a prototype
 * Provide test coverage
 
-## <a name=determine-features></a>Determine a feature set
+## Determine a feature set <a name=determine-features></a>
 
 The first step is to discover and define the set of features that your distribution will provide. Consider the following questions for each feature:
 
