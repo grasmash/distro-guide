@@ -19,20 +19,3 @@ For more technical information, see the references below.
 * [Using an installation profile](Using an installation profile)
 * [Distribution developers guide](https://www.drupal.org/node/1555384)
 * [How to Write a Drupal 7 Installation Profile](https://www.drupal.org/node/1022020)
-
-## Planning and developing a distribution
-
-
-## Mataining a distribution
-
-As the name implies, a distribution is intended to be distributed and implemented by many sites. It is a software product. Consequently, the maintainer of a distribution has the responsibilities of a product owner. 
-
-Distribution maintainers typically have the following responsibilities: 
-
-* Ensuring that the _installation process_ is fully automated and functional.
-* Ensuring that all features and processes are _adequately documented_.
-* Providing proactive updates for _security vulnerabilities_ posed by any of the included modules, themes, or libraries.
-* Providing a mechanism for soliciting or accepting feedback. E.g., bug reports, feature requests, etc.
-
-From a project management standpoint, developing and maintaining a Drupal distribution is vastly different that developing a single Drupal site.
-
