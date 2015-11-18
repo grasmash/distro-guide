@@ -5,7 +5,7 @@
 * Build a prototype
 * Provide test coverage
 
-## Determine a feature set <a name=determine-features></a>
+## Determine a feature set <a name="determine-features"></a>
 
 The first step is to discover and define the set of features that your distribution will provide. Consider the following questions for each feature:
 
@@ -38,3 +38,4 @@ To provide this feature, the following Drupal configuration must be defined:
   * Training materials for site administrator use
   * Technical documentation outlining architecture, configurability, etc.
 
+## Configuration management <a name="configuration-management"></a>
