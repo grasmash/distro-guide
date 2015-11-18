@@ -2,12 +2,12 @@
 
 * Determine a feature set
 * Choose a configuration management strategy
-* Build Prototype
+* Build a prototype
 * Provide test coverage
 
 ## Determine a feature set
 
-The first step is to discover and define the set of features that will be provided by your distribution. Consider the following questions for each feature:
+The first step is to discover and define the set of features that your distribution will provide. Consider the following questions for each feature:
 
 * Will this feature be used widely across many sites?
 * Can this feature be easily toggled on and off? I.e., site users and opt in or out of using it.
