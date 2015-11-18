@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
-* [Planning a distrubution](planning.md)
+* [Overview](chapter1.md)
+* [Planning](planning.md)
 * Developing a distribution
 
