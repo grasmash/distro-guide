@@ -12,7 +12,7 @@ The first step is to discover and define the set of features that your distribut
 * Will this feature be used widely across many sites?
 * Can this feature be easily toggled on and off? 
 * How flexible and configurable should this feature be?
-* Does this feature have security or performance consequences that make maintaining it difficult or risky?
+* Does this feature have security or performance consequences?
 
 ### Example features
 
