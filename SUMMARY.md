@@ -2,6 +2,6 @@
 
 * [Introduction](README.md)
 * [Overview](chapter1-overview.md)
-* [Planning](planning.md)
+* [Planning](chapter2-planning.md)
 * Developing a distribution
 
