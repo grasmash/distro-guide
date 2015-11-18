@@ -10,8 +10,8 @@
 The first step is to discover and define the set of features that your distribution will provide. Consider the following questions for each feature:
 
 * Will this feature be used widely across many sites?
-* Can this feature be easily toggled on and off? I.e., site users and opt in or out of using it.
-* How flexible and configurable should this feature be to address the majority of use cases?
+* Can this feature be easily toggled on and off? 
+* How flexible and configurable should this feature be?
 * Does this feature security or performance consequences that make maintaining it difficult or risky?
 
 ### Example features
