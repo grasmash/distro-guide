@@ -9,6 +9,6 @@
 * [Developing](chapter3-developing.md)
    * [Configuration management](configuration_management.md)
    * [Creating discrete and independent features](creating_discrete_and_independent_features.md)
-   * Forward compatbility
+   * [Forward compatbility](forward_compatbility.md)
 * [Maintaining](chapter4-maintaining.md)
 
