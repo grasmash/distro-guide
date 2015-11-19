@@ -10,5 +10,6 @@
    * [Configuration management](configuration_management.md)
    * [Creating discrete and independent features](creating_discrete_and_independent_features.md)
    * [Forward compatbility](forward_compatbility.md)
+   * Planned flexibility and limitations
 * [Maintaining](chapter4-maintaining.md)
 
