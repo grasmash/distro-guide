@@ -30,8 +30,6 @@ The features module has been the de facto choice for configuration management in
 
 ### Configuration (the module)
 
-## Planned flexibility and limitations
-
 ## Performance, security, and maintenance
 
 ## Test coverage
