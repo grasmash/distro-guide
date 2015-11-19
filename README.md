@@ -13,8 +13,16 @@ This document covers the following topics:
 * An exploration of common mistakes
 * Links to related resources on Drupal.org
 
----
+## Owning a distribution
 
-**Authors**: Acquia Professional Services
+Before jumping into the details, let's briefly review what you're getting into.
 
-**Intended Audience**: Project Managers and Technical Architects
+A distribution is a *Software Product* that is used by many *Customers*. Consequently, owning a distribution comes with a great number of responsibilities. 
+
+The distribution owner (i.e. *Product Owner*) is responsible for all of the sites that depend upon the *Product*. They wields the tremendous power to both improve and destroy all of the customer sites in a single action. The most important responsibilities include:
+
+* Identifying and prioritizing defects
+* Ensuring that planned changes will not negatively affect existing sites.
+* Soliciting feedback to verify that the Product is working as expected, how it is being used, and what its merits and deficiencies are.  
+
+To fulfill these important responsibilities, personnel and processes must be established.
