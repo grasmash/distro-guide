@@ -10,3 +10,13 @@ Distribution maintainers typically have the following responsibilities:
 * Providing a mechanism for soliciting or accepting feedback. E.g., bug reports, feature requests, etc.
 
 From a project management standpoint, developing and maintaining a Drupal distribution is vastly different that developing a single Drupal site.
+
+## Updating existing sites
+
+### Security updates
+
+### New features
+
+### Existing features
+
+#### Overridden features
