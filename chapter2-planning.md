@@ -2,8 +2,7 @@
 
 * Determine a feature set
 * Choose a configuration management strategy
-* Build a prototype
-* Provide test coverage
+
 
 ## Determine a feature set <a name="determine-features"></a>
 
