@@ -12,6 +12,6 @@
    * [Forward compatbility](forward_compatbility.md)
    * [Planned flexibility and limitations](planned_flexibility_and_limitations.md)
    * [Performance, security, and maintenance](performance,_security,_and_maintenance.md)
-   * Test coverage
+   * [Test coverage](test_coverage.md)
 * [Maintaining](chapter4-maintaining.md)
 
