@@ -5,4 +5,5 @@ This document provides guidance for developing and maintaining a Drupal distribu
 ---
 
 **Authors**: Acquia Professional Services
+
 **Intended Audience**: Project Managers and Technical Architects
