@@ -1,6 +1,13 @@
 # Distribution Guide
 
-This document provides guidance for developing and maintaining a Drupal distribution. It includes general guidelines for planning, maintenance, and governance, and explores common challenges that distribution maintainers face.
+This document provides guidance for developing and maintaining a Drupal distribution. It includes the following:
+
+* Definition and anatomy of a distribution
+* Responsibilities of a distribution owner
+* Technical and implementation guidelines
+* Project management and organization guidelines
+* An exploration of common mistakes
+* Links to related resources on Drupal.org
 
 ---
 
