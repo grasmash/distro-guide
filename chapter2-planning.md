@@ -2,8 +2,25 @@
 
 * Gather requirements
 * Determine a feature set
-* Choose a configuration management strategy
+* Communicate plan
 
+## Gather requirements
+
+As with all projects, you must begin by gathering requirements. 
+
+* Ask your intended users which features are most important to them
+* Draft requirements from the user perspective
+* Consider all user roles/personas. E.g., both the administrative users and the end/public   user.
+
+#### Common mistakes at this stage:
+
+* Defining implementation details rather than requirements. E.g., stating "we need a press release content type" rather than "As a public user, I want to be able to search an archive of press releases."
+* Designing the wireframes and mockups before gathering requirements.
+
+#### Resources
+
+* [Write a Great User Story](https://help.rallydev.com/writing-great-user-story) (INVEST)
+* [How to write Well-Formed User Stories](https://blog.pivotal.io/labs/labs/well-formed-stories) (Gherkin syntax)
 
 ## Determine a feature set <a name="determine-features"></a>
 
