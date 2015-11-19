@@ -12,7 +12,7 @@ Investigations of these topics are covered in the following sub-sections:
 
 * [Configuration management](configuration_management.md)
 * [Creating discrete and independent features](creating_discrete_and_independent_features.md)
-* [Forward compatbility](forward_compatbility.md)
+* [Forward compatibility](forward_compatbility.md)
 * [Planned flexibility and limitations](planned_flexibility_and_limitations.md)
 * [Performance, security, and maintenance](performance,_security,_and_maintenance.md)
 * [Test coverage](test_coverage.md)
