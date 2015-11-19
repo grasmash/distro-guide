@@ -1,5 +1,6 @@
 # Planning a distrubution
 
+* Gather requirements
 * Determine a feature set
 * Choose a configuration management strategy
 
