@@ -11,5 +11,6 @@
    * [Creating discrete and independent features](creating_discrete_and_independent_features.md)
    * [Forward compatbility](forward_compatbility.md)
    * [Planned flexibility and limitations](planned_flexibility_and_limitations.md)
+   * Performance, security, and maintenance
 * [Maintaining](chapter4-maintaining.md)
 
