@@ -19,10 +19,12 @@ Before jumping into the details, let's briefly review what you're getting into.
 
 A distribution is a *Software Product* that is used by many *Customers*. Consequently, owning a distribution comes with a great number of responsibilities. 
 
-The distribution owner (i.e. *Product Owner*) is responsible for all of the sites that depend upon the *Product*. They wields the tremendous power to both improve and destroy all of the customer sites in a single action. The most important responsibilities include:
+The distribution owner (i.e. *Product Owner*) is responsible for all of the sites that depend upon the *Product*. They wield the tremendous power to both improve and destroy all of the customer sites in a single action. The most important responsibilities include:
 
-* Identifying and prioritizing defects
-* Ensuring that planned changes will not negatively affect existing sites.
-* Soliciting feedback to verify that the Product is working as expected, how it is being used, and what its merits and deficiencies are.  
+* Identifying and prioritizing features and defects
+* Maintaining application health. E.g., performance, security, etc.
+* Facilitating the process of updating existing sites
+* Providing documentation and training materials
+* Providing a mechanism for soliciting or accepting feedback
 
-To fulfill these important responsibilities, personnel and processes must be established.
+The distribution owner should give careful thought to establishing personnel and processes for fulfilling these responsibilities.
