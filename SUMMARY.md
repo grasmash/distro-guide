@@ -8,5 +8,6 @@
    * [Communicate plan](communicate_plan.md)
 * [Developing](chapter3-developing.md)
    * [Configuration management](configuration_management.md)
+   * Creating discrete and independent features
 * [Maintaining](chapter4-maintaining.md)
 
