@@ -14,6 +14,8 @@ High level technical goals for developing a Drupal distribution include:
 
 ## Forward compatbility
 
+## Planned flexibility and limitations
+
 ## Performance, security, and maintenance
 
 ## Test coverage
