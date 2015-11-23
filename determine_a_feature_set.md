@@ -8,9 +8,11 @@ This document is not intended to fully describe Agile Methodology, but let's bri
  
  You likely will have documented additional requirements of that feature that will later be expressed as user stories. E.g., 
  
- > As a public user, I should be able to comment on a press release". 
+> As a public user, I should be able to comment on a press release. 
 
 Note that we have not expressed any implementation details at this stage.
+
+As a distribution owner, you must analyze all of the requirements and potential features in order to determine which are appropriate for inclusion in the distribution.
 
 Consider the following questions for each feature:
 
@@ -18,6 +20,8 @@ Consider the following questions for each feature:
 * Can this feature be easily toggled on and off? 
 * How flexible and configurable should this feature be?
 * Does this feature have security or performance consequences?
+
+The answers to these questions will determine prioritization, schedule, and ultimately which features are included.
 
 ### Example features
 
