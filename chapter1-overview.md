@@ -15,6 +15,7 @@ A distribution typically includes the following components:
 For more technical information, see the references below.
 
 ### Technical References
+
 * [Developing installation profiles and distributions](https://www.drupal.org/developing/distributions)
 * [Using an installation profile](Using an installation profile)
 * [Distribution developers guide](https://www.drupal.org/node/1555384)
