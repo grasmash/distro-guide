@@ -30,6 +30,12 @@ The features module has been the de facto choice for configuration management in
 
 ### Configuration (the module)
 
+The configuration module takes some concepts from the Drupal 8 core configuration management initiative, specifically the concept of the ["activestore" and "datastore" architecture](http://groups.drupal.org/node/191283).
+
 #### Pros
 
+The configuration module allows for more granular control than the features module. In the context of distributions, this makes is easier for client sites to selectively override configuration. 
+
 #### Cons
+
+This module is currently in an alpha state. It is not widely tested. It has out-of-the-box integration with only a handful of popular modules. If you choose to use this for configuration management, you will likely need to address bugs and write some integrations.
