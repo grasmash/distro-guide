@@ -1,10 +1,12 @@
 # Determine a feature set
 
-After you've gathered and documented the distribution requirements, you must translate those requirements into a set of [Epics](https://www.atlassian.com/agile/delivery-vehicles). 
-
-Note that we have not expressed any implementation details at this stage.
-
 As a distribution owner, you must analyze all of the requirements and potential features in order to determine which are appropriate for inclusion in the distribution.
+
+Requirements for planned features should be translated into user stories [user stories](https://www.atlassian.com/agile/delivery-vehicles) which are grouped into [epics](https://www.atlassian.com/agile/delivery-vehicles). 
+
+
+
+
 
 Consider the following questions for each feature:
 
