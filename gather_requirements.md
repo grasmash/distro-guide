@@ -1,6 +1,10 @@
 # Gather requirements
 
-As with all projects, you must begin by gathering requirements. In this stage, you're answering the question "What does the distribution need to do?" We strongly recommend using an agile methodology to drive this process. E.g., consider user personas, define requirements as user stories, etc. Some specific suggestions:
+As with all projects, you must begin by gathering requirements. In this stage, you're answering the question:
+
+> What does the distribution need to do?
+
+We strongly recommend using an agile methodology to drive this process. E.g., consider user personas, define requirements as user stories, etc. Some specific suggestions:
 
 * Ask your intended users which features are most important to them.
 * Draft requirements from the user perspective
