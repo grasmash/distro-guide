@@ -13,5 +13,6 @@
    * [Planned flexibility and limitations](planned_flexibility_and_limitations.md)
    * [Performance, security, and maintenance](performance,_security,_and_maintenance.md)
    * [Test coverage](test_coverage.md)
+   * [Providing an upgrade path](upgrade_path.md)
 * [Maintaining](chapter4-maintaining.md)
 
