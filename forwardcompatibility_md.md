@@ -1,4 +1,4 @@
-# Forward compatbility
+# Providing an upgrade path
 
 As a distribution owner, you are responsible for providing an upgrade path to your users. I.e., if you release a new feature or update an existing feature, your users should be able to easily implement those updates.
 
