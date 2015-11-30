@@ -4,11 +4,11 @@ After you've gathered and documented the distribution requirements, you must tra
 
 This document is not intended to fully describe Agile Methodology, but let's briefly review what is meant by "feature" in agile terminology. A feature is a distinct element of functionality that meets a requirement. For instance, you may have documented the following requirement:
 
-> "We require Press Room that displays all press releases on the website"
+> "We require Press Room that displays all press releases on the website."
  
  You likely will have documented additional requirements of that feature that will later be expressed as user stories. E.g., 
  
-> As a public user, I should be able to comment on a press release. 
+> "Users must be able to comment on press releases."
 
 Note that we have not expressed any implementation details at this stage.
 
