@@ -29,3 +29,7 @@ The features module has been the de facto choice for configuration management in
 * Relatively poor performance
 
 ### Configuration (the module)
+
+#### Pros
+
+#### Cons
