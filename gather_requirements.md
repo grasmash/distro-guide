@@ -4,18 +4,26 @@ As with all projects, you must begin by gathering requirements. In this stage, y
 
 > What does the distribution need to do?
 
-We strongly recommend using an agile methodology to drive this process. E.g., consider user personas, define requirements as user stories, etc. Some specific suggestions:
+We strongly recommend using an agile methodology to drive this process. In this guide, we will use agile terminology such as "[user story](https://www.atlassian.com/agile/delivery-vehicles)" and "[epic](https://www.atlassian.com/agile/delivery-vehicles)" to refer to specific forms of requirements and features. Please see linked materials for more information.
 
-* _Communicate_ your intended users to determine which features are most important to them.
-* Draft requirements from the user perspective
-* Consider all user roles/personas. E.g., both the administrative users and the end/public   user.
+In the initial requirements gathering (sometimes called Discovery) phase you will primarily be performing research and asking questions. Some specific suggestions for this phase include:
+
+* Determine who your users and consider all user roles/personas. E.g., both the administrative users and the end/public user.
+* _Communicate_ your intended users. Ask them questions. 
+  * Identify existing pain points
+  * Ask which features they need and/or want.
+* Meticulously document your findings.
+* Gain a sense of existing expectations.
+* Foster a spirit of involvement and stewardship in your users.
 
 A few example requirements that you may discover include:
 
 * "We require Press Room that displays all press releases on the website."
 * "Users must be able to comment on press releases."
 
-These requirements will later be converted into user stories, which together describe the distributions features. Those will subsequently be sized, scheduled, and ultimately analyzed for implementation.
+These requirements will later be converted into user stories, taken en masse will describe the distributions features. They will subsequently be sized, scheduled, analyzed, and developed.
+
+Please note that we have not yet considered wireframes, designs, or implementation details. Those tasks will be completed later.
 
 #### Common mistakes at this stage:
 
