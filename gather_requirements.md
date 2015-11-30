@@ -13,7 +13,7 @@ We strongly recommend using an agile methodology to drive this process. E.g., co
 A few example requirements that you may discover include:
 
 * "We require Press Room that displays all press releases on the website."
-* "Users must be able to comment on press releases"
+* "Users must be able to comment on press releases."
 
 These requirements will later be converted into user stories, which together describe the distributions features. Those will subsequently be sized, scheduled, and ultimately analyzed for implementation.
 
