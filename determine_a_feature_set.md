@@ -20,6 +20,7 @@ Consider the following questions for each feature:
 * Can this feature be easily toggled on and off? 
 * How flexible and configurable should this feature be?
 * Does this feature have security or performance consequences?
+* Does benefit of having this feature warrant the level of effort required for development?
 
 The answers to these questions will determine prioritization, schedule, and ultimately which features are included.
 
