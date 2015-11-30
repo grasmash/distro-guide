@@ -6,7 +6,7 @@
    * [Gather requirements](gather_requirements.md)
    * [Determine a feature set](determine_a_feature_set.md)
    * [Communicate plan](communicate_plan.md)
-   * Create project plan
+   * [Create project plan](create_project_plan.md)
 * [Developing](chapter3-developing.md)
    * [Configuration management](configuration_management.md)
    * [Creating discrete and independent features](creating_discrete_and_independent_features.md)
