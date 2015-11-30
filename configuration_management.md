@@ -24,9 +24,9 @@ The features module has been the de facto choice for configuration management in
 #### Cons
 
 * _Feature configuration cannot be overridden in a maintainable way_. This can be somewhat mitigated by using the [Features Override](https://www.drupal.org/project/features_override) module.
-* Features must be carefully exported to ensure that they are discrete
-* Debugging features is challenging
-* Relatively poor performance
+* Features must be carefully exported to ensure that they are discrete.
+* Debugging features is challenging.
+* Relatively poor performance.
 
 ### Configuration (the module)
 
@@ -34,8 +34,9 @@ The configuration module takes some concepts from the Drupal 8 core configuratio
 
 #### Pros
 
-The configuration module allows for more granular control than the features module. In the context of distributions, this makes is easier for client sites to selectively override configuration. 
+* More granular control than the features module, allowing more flexibility in overriding configuration
 
 #### Cons
 
-This module is currently in an alpha state. It is not widely tested. It has out-of-the-box integration with only a handful of popular modules. If you choose to use this for configuration management, you will likely need to address bugs and write some integrations.
+* This module is currently in an alpha state. It is not widely tested. 
+* It has out-of-the-box integration with only a handful of popular modules.
