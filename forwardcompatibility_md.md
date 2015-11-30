@@ -1,6 +1,6 @@
 # Forward compatbility
 
-All features should have a well defined upgrade path. E.g., version 1.0 of the "Press Room" feature should be easily and automatically upgraded to version 1.1. It is your responsiblity to provide that upgrade path.
+All features should have a well defined upgrade path. E.g., version 1.0 of the "Press Room" feature should be easily and automatically upgraded to version 1.1. It is your responsibility to provide that upgrade path.
 
 Typically, this is accomplished through:
 
