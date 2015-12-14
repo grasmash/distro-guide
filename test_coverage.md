@@ -44,12 +44,29 @@ Consequently, proper Behat tests should be written using business domain languag
 
 See referenced materials for more information on BDD best practices. 
 
-## Unit testing
+### Common mistakes
 
-@todo This whole section
+* Writing Behat tests that do not use business domain language.
+* Tests are not sufficiently isolated. Making tests interdependent diminishes their value!
+* Writing tests that are exhaustive of all scenarios rather than representative of a typical scenario.
+* Writing Behat tests when a unit test should be employed.
 
 ### Resources
 
+* [Quick intro to Behat](http://docs.behat.org/en/v2.5/quick_intro.html)
 * [When the training wheels came off](http://aslakhellesoy.com/post/11055981222/the-training-wheels-came-off)
+
+## Unit testing
+
+Unit testing is the practice of testing the components of a program automatically, using a test program to provide inputs to each component and check the outputs.  They are meant to be highly granular and completely independent. Running units tests should be a very fast process.
+
+### Resources
+
+* [Unit testing: Why bother?](http://soundsoftware.ac.uk/unit-testing-why-bother/)
 * [Realizing quality improvement through test driven development](http://research.microsoft.com/en-us/groups/ese/nagappan_tdd.pdf)
-* 
+
+### Common mistakes
+
+* Writing unit tests that are not independent
+* Making unit tests too large. Tests should be small and granular.
+* Asserting only positive conditions. Negative assertions should also be made.
