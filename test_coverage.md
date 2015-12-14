@@ -36,12 +36,13 @@ It is suggested that you use the following types of automated tests for your dis
 
 ## Functional testing
 
-Functional tests will be written with [Behat](http://docs.behat.org/en/v2.5/) using a [Behavior Driven Development](http://dannorth.net/introducing-bdd/) methodology.
+Functional tests should be written with [Behat](http://docs.behat.org/en/v2.5/) using a [Behavior Driven Development](http://dannorth.net/introducing-bdd/) methodology.
 
 The high-level purpose BDD is to create a strong connection between business requirements and the actual tests. Behat tests should mirror ticket acceptance criteria as closely as possible.
 
 Consequently, proper Behat tests should be written using business domain language. The test should be comprehensible by the stakeholder and represent a clear business value. It should represent a typical user behavior and need not be an exhaustive representation of all possible scenarios. 
 
+See referenced materials for more information on BDD best practices. 
 
 ## Unit testing
 
@@ -49,6 +50,6 @@ Consequently, proper Behat tests should be written using business domain languag
 
 ### Resources
 
-* @todo Add Behat testing best practice resource
-* @todo Add sources for claims to improvements in velocity.
+* [When the training wheels came off](http://aslakhellesoy.com/post/11055981222/the-training-wheels-came-off)
+* [Realizing quality improvement through test driven development](http://research.microsoft.com/en-us/groups/ese/nagappan_tdd.pdf)
 * 
