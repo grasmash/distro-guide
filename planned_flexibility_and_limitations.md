@@ -7,4 +7,7 @@ Define a discrete, limited scope of responsibility for a feature.
 * Assume that at some point, users will need to override and customize a feature. Plan to accommodate that eventuality.
 * Carefully place limits on access control
 
-@todo Provide examples. E.g, the "Press Room" feature should not define global user roles.
+## Common mistakes
+
+* Sharing fields between features. This often created unintended dependencies.
+* Mixing global configuration in with a non-global feature.
