@@ -5,7 +5,6 @@
 * [Planning](chapter2-planning.md)
    * [Gather requirements](gather_requirements.md)
    * [Determine a feature set](determine_a_feature_set.md)
-   * [Create project plan](create_project_plan.md)
    * [Communicate plan](communicate_plan.md)
 * [Developing](chapter3-developing.md)
    * [Configuration management](configuration_management.md)
